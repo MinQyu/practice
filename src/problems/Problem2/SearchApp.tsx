@@ -1,5 +1,5 @@
 import { useState, useMemo } from 'react';
-import { mockUsers, User } from './mockData';
+import { mockUsers } from './mockData';
 import './SearchApp.css';
 
 function SearchApp() {
